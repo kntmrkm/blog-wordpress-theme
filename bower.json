@@ -1,0 +1,24 @@
+{
+  "name": "wp-rootstrap-custom",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "kntmrkm <kntmrkm@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "latest",
+    "lodash": "latest",
+    "modernizr": "latest",
+    "cssuseragent": "latest"
+  },
+  "overrides": {
+  }
+}
